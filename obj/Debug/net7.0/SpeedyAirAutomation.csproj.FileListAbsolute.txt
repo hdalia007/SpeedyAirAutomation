@@ -1,0 +1,17 @@
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.csproj.AssemblyReference.cache
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.AssemblyInfoInputs.cache
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.AssemblyInfo.cs
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.csproj.CoreCompileInputs.cache
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\bin\Debug\net7.0\SpeedyAirAutomation.exe
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\bin\Debug\net7.0\SpeedyAirAutomation.deps.json
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\bin\Debug\net7.0\SpeedyAirAutomation.runtimeconfig.json
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\bin\Debug\net7.0\SpeedyAirAutomation.dll
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\bin\Debug\net7.0\SpeedyAirAutomation.pdb
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.csproj.CopyComplete
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.dll
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\refint\SpeedyAirAutomation.dll
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.pdb
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\SpeedyAirAutomation.genruntimeconfig.cache
+C:\Users\hdalia-admin\source\repos\FHAuto\SpeedyAirAutomation\obj\Debug\net7.0\ref\SpeedyAirAutomation.dll

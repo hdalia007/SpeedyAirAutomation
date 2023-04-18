@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bV1TjO+cPN3XV3VcECU5TAefDge91aoFumxTk4cBjQOkePZI+g0NE4+sknVxpNaDzrzAnspIr2+6UP+W9bKgMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hdalia-admin\\source\\repos\\FHAuto\\SpeedyAirAutomation\\SpeedyAirAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hdalia-admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
